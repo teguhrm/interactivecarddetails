@@ -18,18 +18,18 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 ### Screenshot
 
   <p>Dekstop Preview</p>
-  <img src="./screenshoot/Interactive Rating - Dekstop.png"
+  <img src="./screenshoot/dekstop.png"
          alt="Dekstop Preview">
 
   <p>Mobile Preview</p>
-  <img src="./screenshoot/Interactive Rating - Mobile.png"
+  <img src="./screenshoot/mobile.png"
          alt="Mobile Preview">
   
   
 
 ### Links
 
-- Solution URL: [Github](https://github.com/teguhrm/interactiveratingcomponent)
+- Solution URL: [Github](https://github.com/teguhrm/interactivecarddetails.git)
 - Live Site URL: [Vercel](https://interactiveratingcomponent-ten.vercel.app/)
 
 ## My process
