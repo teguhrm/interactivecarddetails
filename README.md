@@ -30,7 +30,7 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 ### Links
 
 - Solution URL: [Github](https://github.com/teguhrm/interactivecarddetails.git)
-- Live Site URL: [Vercel](interactivecarddetails-mb6u-aw2ht1f8u-teguhrm.vercel.app)
+- Live Site URL: [Vercel](https://interactivecarddetails-mb6u-aw2ht1f8u-teguhrm.vercel.app/)
 
 ## My process
 
